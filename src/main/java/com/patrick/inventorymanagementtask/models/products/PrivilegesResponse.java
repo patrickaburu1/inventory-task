@@ -2,7 +2,7 @@ package com.patrick.inventorymanagementtask.models.products;
 
 /**
  * @author patrick on 8/4/19
- * @project shop-pos
+ * @project  inventory
  */
 public class PrivilegesResponse {
     private String name,code;

@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @author patrick on 8/17/19
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface DebitsRepository extends CrudRepository<Debits,Long> {

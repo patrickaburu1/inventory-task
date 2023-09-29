@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @author patrick on 9/3/19
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface AuditLogRepository extends CrudRepository<AuditLog,Long> {

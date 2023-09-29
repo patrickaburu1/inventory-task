@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 
 /**
  * @author patrick on 8/9/19
- * @project shop-pos
+ * @project  inventory
  */
 @Entity
 @Table(name = "payment_methods")

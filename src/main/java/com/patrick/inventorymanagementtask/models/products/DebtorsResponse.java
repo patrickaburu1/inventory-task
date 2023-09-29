@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * @author patrick on 8/17/19
- * @project shop-pos
+ * @project  inventory
  */
 public class DebtorsResponse {
 

@@ -29,7 +29,7 @@ import java.util.Date;
 
 /**
  * @author patrick on 2/8/20
- * @project shop-pos
+ * @project  inventory
  */
 @Component
 public class ShopAuthenticationProvider extends DaoAuthenticationProvider {

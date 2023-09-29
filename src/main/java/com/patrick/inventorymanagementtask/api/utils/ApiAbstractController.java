@@ -19,7 +19,7 @@ import java.util.Map;
 
 /**
  * @author patrick on 4/8/20
- * @project shop-pos
+ * @project  inventory
  */
 public class ApiAbstractController {
     @Value("${base.url}")

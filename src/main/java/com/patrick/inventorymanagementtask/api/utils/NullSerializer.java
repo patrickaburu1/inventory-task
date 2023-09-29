@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  * @author patrick on 4/8/20
- * @project shop-pos
+ * @project  inventory
  */
 public class NullSerializer extends JsonSerializer<Object> {
     // Generate the preferred JSON value

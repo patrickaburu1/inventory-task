@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @author patrick on 8/7/19
- * @project shop-pos
+ * @project  inventory
  */
 @Entity
 @Table(name = "shop_employees_group_rights")

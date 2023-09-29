@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * @author patrick on 3/31/20
- * @project shop-pos
+ * @project  inventory
  */
 public class AddProductReq {
     private String name,description,code;

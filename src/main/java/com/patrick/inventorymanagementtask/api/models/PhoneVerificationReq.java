@@ -4,7 +4,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * @author patrick on 2/11/20
- * @project shop-pos
+ * @project  inventory
  */
 public class PhoneVerificationReq {
 

@@ -9,7 +9,7 @@ import java.util.Optional;
 
 /**
  * @author patrick on 8/7/19
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface ShopEmployeesGroupRightsRepository extends CrudRepository<ShopEmployeesGroupRights, Long> {

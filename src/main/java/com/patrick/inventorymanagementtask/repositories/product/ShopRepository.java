@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * @author patrick on 11/21/19
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface ShopRepository extends CrudRepository<Shop,Long> {

@@ -5,7 +5,7 @@ import com.sun.istack.NotNull;
 
 /**
  * @author patrick on 8/19/19
- * @project shop-pos
+ * @project  inventory
  */
 public class CustomerRequest {
 

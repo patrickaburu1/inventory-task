@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @author patrick on 11/22/19
- * @project shop-pos
+ * @project  inventory
  */
 public class ShopResponse {
     private String name;

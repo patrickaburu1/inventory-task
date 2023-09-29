@@ -23,7 +23,7 @@ import java.io.IOException;
 
 /**
  * @author patrick on 11/21/19
- * @project shop-pos
+ * @project  inventory
  */
 @Component
 @Transactional

@@ -17,7 +17,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * @author patrick on 2/11/20
- * @project shop-pos
+ * @project  inventory
  */
 @RestController
 @RequestMapping(value = "/api/v1/shops")

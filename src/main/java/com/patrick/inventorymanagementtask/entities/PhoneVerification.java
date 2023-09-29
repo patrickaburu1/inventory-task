@@ -6,7 +6,7 @@ import java.util.Date;
 
 /**
  * @author patrick on 3/23/20
- * @project shop-pos
+ * @project  inventory
  */
 @Table(name = "phone_verification")
 @Entity

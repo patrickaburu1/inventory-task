@@ -13,7 +13,7 @@ import java.util.*;
 
 /**
  * @author patrick on 3/23/20
- * @project shop-pos
+ * @project  inventory
  */
 @Service
 public class AppFunctions {

@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @author patrick on 9/3/19
- * @project shop-pos
+ * @project  inventory
  */
 @Entity
 @Table(name = "audit_log")

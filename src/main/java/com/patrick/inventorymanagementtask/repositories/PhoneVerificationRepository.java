@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @author patrick on 3/23/20
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface PhoneVerificationRepository extends CrudRepository<PhoneVerification,Long> {

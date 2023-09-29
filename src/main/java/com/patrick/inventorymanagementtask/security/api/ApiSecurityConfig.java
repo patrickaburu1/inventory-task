@@ -22,7 +22,7 @@ import java.util.Arrays;
 
 /**
  * @author patrick on 2/8/20
- * @project shop-pos
+ * @project  inventory
  */
 @Configuration
 @Order(1)

@@ -5,7 +5,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 /**
  * @author patrick on 2/8/20
- * @project shop-pos
+ * @project  inventory
  */
 public class TokenBasedAuthentication extends AbstractAuthenticationToken {
 

@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * @author patrick on 8/17/19
- * @project shop-pos
+ * @project  inventory
  */
 public class DebitRequest {
     private String type,description;

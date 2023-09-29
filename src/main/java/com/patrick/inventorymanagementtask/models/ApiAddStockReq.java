@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 
 /**
  * @author patrick on 4/4/20
- * @project shop-pos
+ * @project  inventory
  */
 public class ApiAddStockReq {
     @NotNull

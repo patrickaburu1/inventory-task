@@ -30,7 +30,7 @@ import java.util.Map;
 
 /**
  * @author patrick on 2/11/20
- * @project shop-pos
+ * @project  inventory
  */
 @RestController
 public class ApiUserController {

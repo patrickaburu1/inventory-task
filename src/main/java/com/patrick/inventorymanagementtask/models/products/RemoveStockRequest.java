@@ -2,7 +2,7 @@ package com.patrick.inventorymanagementtask.models.products;
 
 /**
  * @author patrick on 9/26/19
- * @project shop-pos
+ * @project  inventory
  */
 public class RemoveStockRequest {
 

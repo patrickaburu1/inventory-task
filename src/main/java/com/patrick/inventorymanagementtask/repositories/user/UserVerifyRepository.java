@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @author patrick on 11/28/19
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface UserVerifyRepository extends CrudRepository<UserVerify,Long> {

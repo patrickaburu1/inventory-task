@@ -2,7 +2,7 @@ package com.patrick.inventorymanagementtask.api.models;
 
 /**
  * @author patrick on 5/5/20
- * @project shop-pos
+ * @project  inventory
  */
 public class MCategoriesReq {
     private String name,description;

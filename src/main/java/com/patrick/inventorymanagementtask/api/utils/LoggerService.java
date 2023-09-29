@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 /**
  * @author patrick on 4/8/20
- * @project shop-pos
+ * @project  inventory
  */
 
 @Transactional(readOnly=true)

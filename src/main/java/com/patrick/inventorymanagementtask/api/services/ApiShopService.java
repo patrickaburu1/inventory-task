@@ -37,7 +37,7 @@ import java.util.*;
 
 /**
  * @author patrick on 2/11/20
- * @project shop-pos
+ * @project  inventory
  */
 @Service
 @Transactional

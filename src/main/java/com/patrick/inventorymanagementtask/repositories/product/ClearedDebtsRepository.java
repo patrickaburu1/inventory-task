@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 
 /**
  * @author patrick on 8/17/19
- * @project shop-pos
+ * @project  inventory
  */
 @Repository
 public interface ClearedDebtsRepository extends CrudRepository<ClearedDebts, Long> {

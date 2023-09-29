@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * @author patrick on 4/8/20
- * @project shop-pos
+ * @project  inventory
  */
 public class AppCreateShopReq {
     @NotNull

@@ -2,7 +2,7 @@ package com.patrick.inventorymanagementtask.api.utils;
 
 /**
  * @author patrick on 4/8/20
- * @project shop-pos
+ * @project  inventory
  */
 public interface LoggerInterface {
     /**

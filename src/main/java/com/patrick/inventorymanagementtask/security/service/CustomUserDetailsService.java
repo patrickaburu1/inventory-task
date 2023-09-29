@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * @author patrick on 2/8/20
- * @project shop-pos
+ * @project  inventory
  */
 @Transactional
 @Service("customUserDetailsService")

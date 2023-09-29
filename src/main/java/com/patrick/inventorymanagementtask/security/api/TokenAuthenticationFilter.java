@@ -21,7 +21,7 @@ import java.util.Map;
 
 /**
  * @author patrick on 2/8/20
- * @project shop-pos
+ * @project  inventory
  */
 public class TokenAuthenticationFilter extends UsernamePasswordAuthenticationFilter {
 

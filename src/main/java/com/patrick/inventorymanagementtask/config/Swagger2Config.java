@@ -15,7 +15,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
  * @author patrick on 4/5/20
- * @project shop-pos
+ * @project  inventory
  */
 
 @EnableSwagger2
@@ -28,7 +28,7 @@ public class Swagger2Config {
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2).host(baseUrl).select()
                .apis(RequestHandlerSelectors
-                        .basePackage("com.patrick.myshop.api"))
+                        .basePackage("com.patrick.inventorymanagementtask.api"))
                /* .paths(PathSelectors.regex("/api/*"))*/
                // .apis(RequestHandlerSelectors.any())
                 .paths(PathSelectors.any())
@@ -36,8 +36,8 @@ public class Swagger2Config {
     }
     private ApiInfo apiEndPointsInfo() {
         return new ApiInfoBuilder().title("Duka Lite Solutions REST API")
-                .description("Duka Lite Solutions")
-                .contact(new Contact("Duka Lite", "www.dukalite.com", "dukalitekenya@gmail.com"))
+                .description("Inventory Solutions")
+                .contact(new Contact("Inventory", "http://localhost:8080", "test@localhost:8080"))
                 .license("Apache 2.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
                 .version("1.0.0")
