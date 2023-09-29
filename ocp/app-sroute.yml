@@ -1,0 +1,13 @@
+# oc create route edge --service=pesalink-common-receiver-service --cert=domain.crt --key=domain.key  
+# oc create route reencrypt --service=frontend --cert=tls.crt --key=tls.key --dest-ca-cert=destca.crt --ca-cert=ca.crt --hostname=www.example.com  
+apiVersion: v1
+kind: Route
+metadata:
+  name: inventory
+spec:
+  to:
+    kind: Service
+    name: inventory-service
+    weight: 100
+  port:
+    targetPort: 8080-tcp

@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: inventory
+spec:
+  selector:
+    matchLabels:
+      run: inventory
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        run: inventory
+    spec:
+      containers:
+        - name: inventory
+          image: patrickaburu/inventory:latest
+          ports:
+            - containerPort: 8080
+              protocol: TCP
